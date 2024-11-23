@@ -1,0 +1,125 @@
+{
+  "employee": [
+    {
+      "name": "Rakesh",
+      "age": 28,
+      "department": "engineering",
+      "position": "Team Lead",
+      "salary": 60000,
+      "phone": "5423687952",
+      "email": "satish@gmail.com",
+      "address": "erty890fghjkl",
+      "id": "280b"
+    },
+    {
+      "name": "Rakesh sdfghjkl;'",
+      "age": 28,
+      "department": "engineering",
+      "position": "Team Lead",
+      "salary": 60000,
+      "phone": "5423687952",
+      "email": "satish@gmail.com",
+      "address": "erty890fghjkl",
+      "id": "280b"
+    },
+    {
+      "id": "7914",
+      "name": "mahesh",
+      "age": 30,
+      "department": "development",
+      "position": "manager",
+      "salary": 50000,
+      "phone": "9121572435",
+      "email": "mahes@gmail.com",
+      "address": "ANNAPURNA NILAYAM , KPHB COLONY, ROAD NO 1 , HYDERABAD 500072"
+    },
+    {
+      "name": "sddgb",
+      "age": 546576,
+      "department": "chemisrty",
+      "position": "manager",
+      "salary": 350000,
+      "phone": "9948016707",
+      "email": "govindarajud9@gmail.com",
+      "address": "edfsrdtfjhvjb",
+      "id": "a5c5"
+    },
+    {
+      "name": "Rakesh sdfghjkl;'",
+      "age": 28,
+      "department": "engineering",
+      "position": "Team Lead",
+      "salary": 60000,
+      "phone": "5423687952",
+      "email": "satish@gmail.com",
+      "address": "erty890fghjkl",
+      "id": "280b"
+    },
+    {
+      "id": "7914",
+      "name": "mahesh",
+      "age": 30,
+      "department": "development",
+      "position": "manager",
+      "salary": 50000,
+      "phone": "9121572435",
+      "email": "mahes@gmail.com",
+      "address": "ANNAPURNA NILAYAM , KPHB COLONY, ROAD NO 1 , HYDERABAD 500072"
+    },
+    {
+      "id": "a5c5",
+      "name": "Govindaraju Devagupthapu",
+      "age": 54,
+      "department": "chemisrty",
+      "position": "manager",
+      "salary": 350000,
+      "phone": "09948016707",
+      "email": "govindarajud9@gmail.com",
+      "address": "MIG 614 ANNAPURNA NILAYAM KPHB COLONY"
+    },
+    {
+      "id": "947a",
+      "name": "rajesh",
+      "age": 30,
+      "department": "development",
+      "position": "manager",
+      "salary": 350000,
+      "phone": "8965471257",
+      "email": "rajesh@gmail.com",
+      "address": "MIG 614 ANNAPURNA NILAYAM KPHB COLONY"
+    },
+    {
+      "name": "rtybhnhbvrttcyibnkhbgvy",
+      "age": 54,
+      "department": "engineering",
+      "position": "lead",
+      "salary": 350000,
+      "phone": "09948016707",
+      "email": "govindarajud9@gmail.com",
+      "address": "Rajaka Street",
+      "id": "59e9"
+    },
+    {
+      "id": "d2b4",
+      "name": "ddvzvfxfxvxfvcv c c",
+      "age": 123456,
+      "department": "Zxcvb n",
+      "position": "zXcvbvn",
+      "salary": 234567,
+      "phone": "sdfcvnbmzxcxcvb",
+      "email": "qewretryt@gmail.com",
+      "address": "wqewretygjhk"
+    },
+    {
+      "id": "3ff0",
+      "name": "Govindaraju Devagupthapu",
+      "age": 54,
+      "department": "engineering",
+      "position": "lead",
+      "salary": 350000,
+      "phone": "09948016707",
+      "email": "govindarajud9@gmail.com",
+      "address": "MIG 614 ANNAPURNA NILAYAM KPHB COLONY"
+    }
+  ]
+}

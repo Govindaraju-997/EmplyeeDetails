@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav>
+      <img src="./Assets/logoipsum-330.svg" />
+      <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+        <img src="./Assets/moon.png" alt="Theme Image" class="moon-img" id="icon">
+      </div>
+      
+    </nav>
+
+    <div class="hero-section">
+      <div class="content">
+        <h1>Employee Details:</h1>
+        <button id="add-btn">Add Employee</button>
+      </div>
+
+      <form id="employeeForm">
+        <label for="name">Name:</label><br />
+        <input
+          type="text"
+          id="name"
+          name="name"
+          required
+          placeholder="Enter Your Name"
+        /><br /><br />
+
+        <label for="age">Age:</label><br />
+        <input
+          type="number"
+          id="age"
+          name="age"
+          required
+          placeholder="Enter Your Age"
+        /><br /><br />
+
+        <label for="department">Department:</label><br />
+        <input
+          type="text"
+          id="department"
+          name="department"
+          required
+          placeholder="Enter Your Department"
+        /><br /><br />
+
+        <label for="position">Position:</label><br />
+        <input
+          type="text"
+          id="position"
+          name="position"
+          required
+          placeholder="Enter Your Position"
+        /><br /><br />
+
+        <label for="salary">Salary:</label><br />
+        <input
+          type="number"
+          id="salary"
+          name="salary"
+          required
+          placeholder="Enter Your Salary"
+        /><br /><br />
+
+        <label for="phone">Phone Number:</label><br />
+        <input
+          type="tel"
+          id="phone"
+          name="phone"
+          required
+          placeholder="Enter Your Phone Number"
+        /><br /><br />
+
+        <label for="email">Email:</label><br />
+        <input
+          type="email"
+          id="email"
+          name="email"
+          required
+          placeholder="Enter Your Email"
+        /><br /><br />
+
+        <label for="Address">Address:</label><br />
+        <input
+          type="text"
+          id="address"
+          name="address"
+          required
+          placeholder="Enter Your Address"
+        /><br /><br />
+
+        <button type="submit">Submit</button>
+      </form>
+
+      <div id="container"></div>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+
+  </body>
+</html>
