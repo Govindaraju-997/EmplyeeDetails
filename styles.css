@@ -9,7 +9,190 @@
     --primary-color:rgb(67, 74, 74);
     --secondary-color:#212121;
     --nav-background:#ffffff;
-    --color:#fff;
+    --color:#fff;*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    :root{
+        --primary-color:#e9eae6;
+        --secondary-color:#212121;
+        --nav-background:#ffffff;
+        --color:rgb(11, 11, 11);
+        --edt-btn-color:rgb(196, 196, 216);
+        --del-btn-color:rgb(238, 195, 195);
+    
+    .dark-theme{
+        --primary-color:rgb(35, 34, 34);
+        --secondary-color:#fff;
+        --nav-background:#0b0000;
+        --color:hsl(0, 36%, 95%);
+        --edt-btn-color:rgb(73, 73, 75);
+        --del-btn-color:rgb(59, 36, 36);
+    }
+    }
+    body{
+        background-color:var(--nav-background);
+    }
+     nav{
+        width: 100%;
+        height: 10vh;
+        background-color:var(--nav-background);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-bottom:1px solid var(--secondary-color);
+    }
+    .nav-links{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:40px;
+    } 
+    a{
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 500;
+        color:var(--secondary-color);
+    }
+    
+    .hero-section{
+        width: 100%;
+        height:100vh;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    h1{
+    width: 100%;
+    font-size: 40px;
+    color: var(--secondary-color);
+    }
+    button{
+        width:150px;
+        height: 40px;
+        font-weight: 600;
+        font-size: 15px;
+        color:var(--color);
+        background-color: var(--primary-color);
+        border-style: none;
+        border-radius: 5px;
+    }
+    label{
+        color:var(--secondary-color);
+        font-weight: 600;
+    }
+    input{
+        width:70%;
+        height:35px;
+        border-radius: 5px;
+        border: none;
+        color:var(--nav-background);
+        background-color: var(--secondary-color);
+        padding: 5px;
+    }
+    .content{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    form{
+        width: 60%;
+        display: none;
+    }
+    
+    #container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width:100%;
+        flex-wrap: wrap;
+        gap:30px;
+        padding:30px;
+    }
+    .btn-container{
+        display: flex;
+        justify-content: space-around;
+        gap:25px;
+        padding-top: 20px;
+    }
+    .edt-btn{
+        color: var(--color);
+        width:100px;
+        background-color:var(--edt-btn-color);
+    }
+    .del-btn{
+        color: var(--color);
+        width:100px;
+        background-color:var(--del-btn-color);
+    }
+    
+    .employee-card {
+        width: 300px;
+        height: 350px;
+        position: relative;
+      }
+      
+      .card-inner {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        transition: ease-in 0.5s;
+        transform-style: preserve-3d;
+      }
+      
+      .flipped {
+        transform: rotateY(180deg);
+      }
+      
+      .card-front,
+      .card-back {
+        width: 100%;
+        height: 100%;
+        backface-visibility: hidden;
+        position: absolute;
+        padding: 20px;
+        border-radius: 10px;
+        /* box-shadow: 3px 3px 10px 2px rgba(53, 32, 32, 0.3); */
+      }
+      
+      .card-front {
+        display: flex;
+        flex-direction: column;
+        gap:10px;
+        background-color: var(--primary-color);
+        color: var(--color);
+      }
+      
+      .card-back {
+        background-color:  var( --primary-color);
+        color: var(--color);
+        transform: rotateY(180deg);
+      }
+      
+      #theme-toggle {
+        background-color: rgb(88, 90, 90);
+        color: #140101;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+    .moon-img{
+        width:30px;
+        height:30px;
+    }
+    .pdf-btn{
+       position:relative;
+       left:240px;
+       top:5px;
+        width:20px;
+        height:20px;
+    }
     --edt-btn-color:rgb(98, 98, 100);
     --del-btn-color:rgb(173, 120, 120);
 

@@ -1,17 +1,6 @@
 {
   "employee": [
     {
-      "name": "Rakesh",
-      "age": 28,
-      "department": "engineering",
-      "position": "Team Lead",
-      "salary": 60000,
-      "phone": "5423687952",
-      "email": "satish@gmail.com",
-      "address": "erty890fghjkl",
-      "id": "280b"
-    },
-    {
       "name": "Rakesh sdfghjkl;'",
       "age": 28,
       "department": "engineering",
@@ -21,50 +10,6 @@
       "email": "satish@gmail.com",
       "address": "erty890fghjkl",
       "id": "280b"
-    },
-    {
-      "id": "7914",
-      "name": "mahesh",
-      "age": 30,
-      "department": "development",
-      "position": "manager",
-      "salary": 50000,
-      "phone": "9121572435",
-      "email": "mahes@gmail.com",
-      "address": "ANNAPURNA NILAYAM , KPHB COLONY, ROAD NO 1 , HYDERABAD 500072"
-    },
-    {
-      "name": "sddgb",
-      "age": 546576,
-      "department": "chemisrty",
-      "position": "manager",
-      "salary": 350000,
-      "phone": "9948016707",
-      "email": "govindarajud9@gmail.com",
-      "address": "edfsrdtfjhvjb",
-      "id": "a5c5"
-    },
-    {
-      "name": "Rakesh sdfghjkl;'",
-      "age": 28,
-      "department": "engineering",
-      "position": "Team Lead",
-      "salary": 60000,
-      "phone": "5423687952",
-      "email": "satish@gmail.com",
-      "address": "erty890fghjkl",
-      "id": "280b"
-    },
-    {
-      "id": "7914",
-      "name": "mahesh",
-      "age": 30,
-      "department": "development",
-      "position": "manager",
-      "salary": 50000,
-      "phone": "9121572435",
-      "email": "mahes@gmail.com",
-      "address": "ANNAPURNA NILAYAM , KPHB COLONY, ROAD NO 1 , HYDERABAD 500072"
     },
     {
       "id": "a5c5",
@@ -120,6 +65,50 @@
       "phone": "09948016707",
       "email": "govindarajud9@gmail.com",
       "address": "MIG 614 ANNAPURNA NILAYAM KPHB COLONY"
+    },
+    {
+      "id": "c845",
+      "name": "MD . Arshi Elahi",
+      "age": 27,
+      "department": "chemisrty",
+      "position": "manager",
+      "salary": 350000,
+      "phone": "7894568789",
+      "email": "arshi@gmail.com",
+      "address": "peddapuram, kabadi vari veedhi 533437"
+    },
+    {
+      "id": "4b86",
+      "name": "narendra",
+      "age": 30,
+      "department": "engineering",
+      "position": "Team Lead",
+      "salary": 600000,
+      "phone": "09948016707",
+      "email": "naresnder@gmail.com",
+      "address": "near kothaguda cross road  kondapur  hyderabad-5000064"
+    },
+    {
+      "id": "2774",
+      "name": "RAJU",
+      "age": 54,
+      "department": "ww",
+      "position": "aDW",
+      "salary": 350000,
+      "phone": "1234567890",
+      "email": "SFDFFFF@GMAIL.COM",
+      "address": "ASDGFHGHJK"
+    },
+    {
+      "id": "63f0",
+      "name": "vhrdytjkhrtg",
+      "age": 54,
+      "department": "engineering",
+      "position": "err",
+      "salary": 1234567890,
+      "phone": "1234567890",
+      "email": "fggu@gmail.com",
+      "address": "ghjkygdfghbjndgfh"
     }
   ]
 }
